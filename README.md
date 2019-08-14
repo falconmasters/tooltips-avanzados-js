@@ -1,6 +1,6 @@
-# Como agregar Tooltips a tu Sitio Web solo con CSS
-### [Tutorial: https://youtu.be/zaE-tMIxSno](https://youtu.be/zaE-tMIxSno)
+# Como hacer un Tooltip Avanzado con Javascript
+### [Tutorial: https://youtu.be/PaHTMbpzlK4](https://youtu.be/PaHTMbpzlK4)
 
-![Como agregar Tooltips a tu Sitio Web solo con CSS](https://raw.githubusercontent.com/falconmasters/tooltips-basicas-css/master/img/thumb.png)
+![Como hacer un Tooltip Avanzado con Javascript](https://raw.githubusercontent.com/falconmasters/tooltips-avanzados-js/master/img/thumb.png)
 
 Por: [FalconMasters](http://www.falconmasters.com)
